@@ -1,0 +1,13 @@
+# Pastas de compilação do Maven
+target/
+*.class
+
+# Arquivos do VS Code e Eclipse
+.vscode/
+.settings/
+.project
+.classpath
+
+# Arquivos do Mac/Windows
+.DS_Store
+Thumbs.db
