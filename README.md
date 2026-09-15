@@ -4,11 +4,6 @@ Um sistema completo para gerenciamento de assinaturas e materiais de estudo, con
 
 Este projeto demonstra a integração de uma interface desktop rica consumindo uma API RESTful, com banco de dados conteinerizado.
 
-## 📄 Documentação de Arquitetura
-Para uma visão detalhada das decisões técnicas e fluxo de dados, acesse o documento abaixo:
-👉 **[Ver Documentação de Arquitetura (PDF)](./Arquitetura_Gerenciador_Estudos.pdf)**
-
----
 
 ## 🛠️ Tecnologias Utilizadas
 
